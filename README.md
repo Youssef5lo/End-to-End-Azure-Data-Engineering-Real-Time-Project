@@ -8,19 +8,19 @@ The tools that are covered in this project are,
 
 
 
-Azure Data Factory
+1. Azure Data Factory
 
-Azure Data Lake Storage Gen2
+2. Azure Data Lake Storage Gen2
 
-Azure Databricks
+3. Azure Databricks
 
-Azure Synapse Analytics
+4. Azure Synapse Analytics
 
-Azure Key vault
+5. Azure Key vault
 
-Microsoft Entra ID (Previously called as AAD) and
+6. Microsoft Entra ID (Previously called as AAD) and
 
-Microsoft Power BI
+7. Microsoft Power BI
 
 
 
