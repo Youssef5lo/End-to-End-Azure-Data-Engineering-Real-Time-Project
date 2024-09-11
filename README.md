@@ -14,6 +14,7 @@ The project components are as follows:
 - **Azure Databricks**: Transforms data, applying bronze-silver-gold transformations.
 - **Azure Synapse Analytics**: Performs data warehousing and querying.
 - **Power BI**: Visualizes data and delivers interactive reporting.
+![Resource group](https://github.com/user-attachments/assets/efdce2f3-ac53-44b0-8365-e21cb736a8e0)
 
 ---
 
