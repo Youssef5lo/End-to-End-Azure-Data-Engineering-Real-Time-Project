@@ -31,6 +31,9 @@ Before setting up the project, ensure you have the following:
 ### **1. Download and Restore AdventureWorksLT2017 Database**
 - **Download the Database**: Get the AdventureWorksLT2017 database.
 - **Restore the Database**: Follow the guide to restore the database on your SQL Server instance.
+- **Setting User for login**: Copy the first two row from SQL Commands
+- ** Add this user and password as Key Vault secrets**:![like this](https://github.com/user-attachments/assets/82a7aa7e-0f56-4605-9ad1-643e0435ef12)
+ 
 
 ---
 
@@ -39,6 +42,8 @@ Before setting up the project, ensure you have the following:
 - **Create Pipelines**: Set up pipelines to orchestrate Databricks transformations.
 - **Configure Linked Services**: Set up connections to Azure SQL Database, Blob Storage, etc.
 - **Data Flows**: Create and debug data flows for transformations and cleansing.
+![Final look on ADF](https://github.com/user-attachments/assets/f625827f-ab85-46fe-93cd-3856cee735c5)
+)
 
 ---
 
@@ -46,6 +51,7 @@ Before setting up the project, ensure you have the following:
 - **Create a Databricks Workspace**: Set up and configure a cluster for data processing.
 - **Develop Python Notebooks**: Use PySpark to write and run notebooks that transform data between bronze, silver, and gold layers.
 - **Integrate with ADF**: Link Databricks notebooks to ADF for orchestration and scheduling.
+![Final look on databricks](https://github.com/user-attachments/assets/549b5820-bdfb-4a95-9ab2-6ceef4e37c7e)
 
 ---
 
@@ -53,6 +59,7 @@ Before setting up the project, ensure you have the following:
 - **Create Synapse Workspace**: Set up Synapse Analytics for big data processing and warehousing.
 - **Data Warehousing**: Set up dedicated or serverless SQL pools to perform queries and transformations.
 - **Run Queries**: Execute SQL queries to extract insights from the transformed data.
+![Azure Synapse Analytics after setting the pipeline](https://github.com/user-attachments/assets/5efa0047-5fa2-42b2-9a02-fa989d11c2c3)
 
 ---
 
@@ -60,6 +67,7 @@ Before setting up the project, ensure you have the following:
 - **Connect Power BI to Synapse**: Import data from Synapse Analytics into Power BI.
 - **Design Reports**: Create interactive visualizations and dashboards that provide real-time insights.
 - **Publish to Power BI Service**: Publish your reports for sharing and collaboration with stakeholders.
+![PowerBI](https://github.com/user-attachments/assets/0b56a58c-721a-4a62-8e02-e0dd3e9f7198)
 
 ---
 
