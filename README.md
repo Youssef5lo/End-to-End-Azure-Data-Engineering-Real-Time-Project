@@ -33,7 +33,7 @@ Before setting up the project, ensure you have the following:
 - **Download the Database**: Get the AdventureWorksLT2017 database.
 - **Restore the Database**: Follow the guide to restore the database on your SQL Server instance.
 - **Setting User for login**: Copy the first two row from SQL Commands
-- ** Add this user and password as Key Vault secrets**:![like this](https://github.com/user-attachments/assets/82a7aa7e-0f56-4605-9ad1-643e0435ef12)
+- **Add this user and password as Key Vault secrets**:![like this](https://github.com/user-attachments/assets/82a7aa7e-0f56-4605-9ad1-643e0435ef12)
  
 
 ---
